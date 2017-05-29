@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>test1_Tile_12_2_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_5341cb54-b459-466c-8943-6eb52010fdb4">
+      <kml:name>UUID_5341cb54-b459-466c-8943-6eb52010fdb4</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9608777</kml:longitude>
+          <kml:latitude>-37.794143</kml:latitude>
+          <kml:altitude>53.495079000000004</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2537014</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>1/UUID_5341cb54-b459-466c-8943-6eb52010fdb4.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

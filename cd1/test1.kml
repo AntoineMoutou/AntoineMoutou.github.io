@@ -14,15 +14,15 @@
       <range>970.0</range>
     </LookAt>
     <Folder>
-      <name>test1_Tile_0_0</name>
+      <name>test1_Tile_12_2</name>
       <NetworkLink>
         <name>Display as geometry</name>
         <Region>
           <LatLonAltBox>
-            <north>-37.79202838368497</north>
-            <south>-37.80716780998051</south>
-            <east>144.9708389403139</east>
-            <west>144.95752978990072</west>
+            <north>-37.793109771277514</north>
+            <south>-37.79419115887005</south>
+            <east>144.96152253502467</east>
+            <west>144.96019161998336</west>
           </LatLonAltBox>
           <Lod>
             <minLodPixels>0.0</minLodPixels>
@@ -30,7 +30,7 @@
           </Lod>
         </Region>
         <Link>
-          <href>Tiles\0\0\test1_Tile_0_0_geometry.kml</href>
+          <href>Tiles\12\2\test1_Tile_12_2_geometry.kml</href>
           <viewRefreshMode>onRegion</viewRefreshMode>
           <viewFormat/>
         </Link>

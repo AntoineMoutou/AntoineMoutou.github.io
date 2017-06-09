@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>unimelbcitygml3ds_Tile_12_9_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_5ceaf883-df5e-499f-8ff4-b28d64c1d3d9">
+      <kml:name>UUID_5ceaf883-df5e-499f-8ff4-b28d64c1d3d9</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9704659</kml:longitude>
+          <kml:latitude>-37.7935246</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2394719</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>261/UUID_5ceaf883-df5e-499f-8ff4-b28d64c1d3d9.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_a3b686b6-a02e-431c-af7c-31894c93381f">
+      <kml:name>UUID_a3b686b6-a02e-431c-af7c-31894c93381f</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9707023</kml:longitude>
+          <kml:latitude>-37.7932132</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2501936</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>736/UUID_a3b686b6-a02e-431c-af7c-31894c93381f.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

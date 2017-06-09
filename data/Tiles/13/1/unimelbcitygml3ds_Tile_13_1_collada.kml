@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>unimelbcitygml3ds_Tile_13_1_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_68efa436-ed8d-4503-96f2-ee45caf9e811">
+      <kml:name>UUID_68efa436-ed8d-4503-96f2-ee45caf9e811</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9599879</kml:longitude>
+          <kml:latitude>-37.7930867</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2406118</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>81/UUID_68efa436-ed8d-4503-96f2-ee45caf9e811.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

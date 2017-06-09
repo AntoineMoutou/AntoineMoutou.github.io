@@ -1,0 +1,2796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>unimelbcitygml3dsgeom_Tile_13_2_geometry</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="KMLGeom_UUID_2a6ff093-335f-4de8-b45d-802efa701c42_RoofSurface">
+      <kml:name>UUID_2a6ff093-335f-4de8-b45d-802efa701c42_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613404,-37.7921549,2.8979836 144.9613465,-37.7922045,2.8979836 144.9613735,-37.7921509,2.8979836 144.9613404,-37.7921549,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613735,-37.7921509,2.8979836 144.9613465,-37.7922045,2.8979836 144.9613796,-37.7922006,2.8979836 144.9613735,-37.7921509,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613796,-37.7922006,2.8979836 144.9613796,-37.7922006,0.0823784 144.9613735,-37.7921509,2.8979836 144.9613796,-37.7922006,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613735,-37.7921509,2.8979836 144.9613796,-37.7922006,0.0823784 144.9613735,-37.7921509,0.0946198 144.9613735,-37.7921509,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613465,-37.7922045,2.8979836 144.9613404,-37.7921549,2.8979836 144.9613404,-37.7921549,0.0527382 144.9613465,-37.7922045,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613735,-37.7921509,2.8979836 144.9613735,-37.7921509,0.0946198 144.9613404,-37.7921549,0.0527382 144.9613735,-37.7921509,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613735,-37.7921509,2.8979836 144.9613404,-37.7921549,0.0527382 144.9613404,-37.7921549,2.8979836 144.9613735,-37.7921509,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_2a6ff093-335f-4de8-b45d-802efa701c42_WallSurface">
+      <kml:name>UUID_2a6ff093-335f-4de8-b45d-802efa701c42_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613465,-37.7922045,2.8979836 144.9613465,-37.7922045,0.0 144.9613796,-37.7922006,2.8979836 144.9613465,-37.7922045,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613796,-37.7922006,2.8979836 144.9613465,-37.7922045,0.0 144.9613796,-37.7922006,0.0823784 144.9613796,-37.7922006,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613437,-37.7921775,0.0 144.9613465,-37.7922045,0.0 144.9613465,-37.7922045,2.8979836 144.9613437,-37.7921775,0.0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613465,-37.7922045,2.8979836 144.9613404,-37.7921549,0.0527382 144.9613437,-37.7921775,0.0 144.9613465,-37.7922045,2.8979836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_8cc715c7-dfd3-455a-9f01-d0e11ae654f9_RoofSurface">
+      <kml:name>UUID_8cc715c7-dfd3-455a-9f01-d0e11ae654f9_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602913,-37.793101,2.8242836 144.9603128,-37.7930563,2.8242836 144.9602751,-37.7930962,2.8242836 144.9602913,-37.793101,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602751,-37.7930962,2.8242836 144.9603128,-37.7930563,2.8242836 144.9602962,-37.7930515,2.8242836 144.9602751,-37.7930962,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602913,-37.793101,2.8242836 144.9602913,-37.793101,0.0399437 144.9603128,-37.7930563,0.0251961 144.9602913,-37.793101,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602913,-37.793101,2.8242836 144.9603128,-37.7930563,0.0251961 144.9603128,-37.7930563,2.8242836 144.9602913,-37.793101,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602751,-37.7930962,2.8242836 144.9602751,-37.7930962,0.0306358 144.9602913,-37.793101,2.8242836 144.9602751,-37.7930962,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602913,-37.793101,2.8242836 144.9602751,-37.7930962,0.0306358 144.9602913,-37.793101,0.0399437 144.9602913,-37.793101,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_8cc715c7-dfd3-455a-9f01-d0e11ae654f9_WallSurface">
+      <kml:name>UUID_8cc715c7-dfd3-455a-9f01-d0e11ae654f9_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602962,-37.7930515,2.8242836 144.9602962,-37.7930515,0.0 144.9602751,-37.7930962,2.8242836 144.9602962,-37.7930515,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602751,-37.7930962,2.8242836 144.9602962,-37.7930515,0.0 144.9602751,-37.7930962,0.0306358 144.9602751,-37.7930962,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603128,-37.7930563,2.8242836 144.9603128,-37.7930563,0.0251961 144.9602962,-37.7930515,0.0 144.9603128,-37.7930563,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603128,-37.7930563,2.8242836 144.9602962,-37.7930515,0.0 144.9602962,-37.7930515,2.8242836 144.9603128,-37.7930563,2.8242836</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_56009bc1-1d50-40d9-b693-b962937cad0a_RoofSurface">
+      <kml:name>UUID_56009bc1-1d50-40d9-b693-b962937cad0a_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608422,-37.7925923,1.8659172 144.9608261,-37.792547,1.8659172 144.9607947,-37.792605,1.8659172 144.9608422,-37.7925923,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9607947,-37.792605,1.8659172 144.9608261,-37.792547,1.8659172 144.960778,-37.7925552,1.8659172 144.9607947,-37.792605,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608261,-37.792547,1.8659172 144.9608261,-37.792547,0.0578346 144.9608022,-37.7925511,0.0578346 144.9608261,-37.792547,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608022,-37.7925511,0.0578346 144.960778,-37.7925552,0.0977936 144.9608261,-37.792547,1.8659172 144.9608022,-37.7925511,0.0578346</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608261,-37.792547,1.8659172 144.960778,-37.7925552,0.0977936 144.960778,-37.7925552,1.8659172 144.9608261,-37.792547,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608268,-37.792547,1.6736832 144.9608268,-37.792547,0.0585518 144.9608268,-37.792547,0.0585518 144.9608268,-37.792547,1.6736832</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608268,-37.792547,0.0585518 144.9608261,-37.792547,0.0578346 144.9608261,-37.792547,1.8659172 144.9608268,-37.792547,0.0585518</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608268,-37.792547,0.0585518 144.9608261,-37.792547,1.8659172 144.9608268,-37.792547,1.6736832 144.9608268,-37.792547,0.0585518</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960836,-37.7925742,0.0326805 144.960836,-37.7925742,0.0326805 144.960836,-37.7925742,1.6785698 144.960836,-37.7925742,0.0326805</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960836,-37.7925742,1.6785698 144.9608284,-37.7925515,1.6740532 144.9608422,-37.7925923,1.8659172 144.960836,-37.7925742,1.6785698</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608422,-37.7925923,1.8659172 144.9608284,-37.7925515,1.6740532 144.9608261,-37.792547,1.8659172 144.9608422,-37.7925923,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608422,-37.7925923,1.8659172 144.9608422,-37.7925923,0.0184479 144.960836,-37.7925742,0.0326805 144.9608422,-37.7925923,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608422,-37.7925923,1.8659172 144.960836,-37.7925742,0.0326805 144.960836,-37.7925742,1.6785698 144.9608422,-37.7925923,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608284,-37.7925515,1.6740532 144.9608268,-37.792547,1.6736832 144.9608261,-37.792547,1.8659172 144.9608284,-37.7925515,1.6740532</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608243,-37.792547,1.5758057 144.9608335,-37.7925742,1.5758057 144.9608496,-37.7925699,2.1952095 144.9608243,-37.792547,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608243,-37.792547,1.5758057 144.9608496,-37.7925699,2.1952095 144.9608404,-37.7925427,2.1952095 144.9608243,-37.792547,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608652,-37.7925702,1.5758057 144.9608564,-37.792543,1.5758057 144.9608404,-37.7925427,2.1952095 144.9608652,-37.7925702,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608652,-37.7925702,1.5758057 144.9608404,-37.7925427,2.1952095 144.9608496,-37.7925699,2.1952095 144.9608652,-37.7925702,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608564,-37.792543,1.5758057 144.9608243,-37.792547,1.5758057 144.9608404,-37.7925427,2.1952095 144.9608564,-37.792543,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608335,-37.7925742,1.5758057 144.9608652,-37.7925702,1.5758057 144.9608496,-37.7925699,2.1952095 144.9608335,-37.7925742,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608652,-37.7925702,1.5758057 144.9608652,-37.7925702,0.0125351 144.9608564,-37.792543,1.5758057 144.9608652,-37.7925702,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608564,-37.792543,1.5758057 144.9608652,-37.7925702,0.0125351 144.9608564,-37.792543,0.0228043 144.9608564,-37.792543,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608335,-37.7925742,1.5758057 144.9608335,-37.7925742,0.0339546 144.960836,-37.7925742,0.0326805 144.9608335,-37.7925742,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960836,-37.7925742,0.0326805 144.9608652,-37.7925702,0.0125351 144.9608335,-37.7925742,1.5758057 144.960836,-37.7925742,0.0326805</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608335,-37.7925742,1.5758057 144.9608652,-37.7925702,0.0125351 144.9608652,-37.7925702,1.5758057 144.9608335,-37.7925742,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608268,-37.792547,0.0585518 144.9608243,-37.792547,0.0621033 144.9608243,-37.792547,1.5758057 144.9608268,-37.792547,0.0585518</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608243,-37.792547,1.5758057 144.9608564,-37.792543,1.5758057 144.9608564,-37.792543,0.0228043 144.9608243,-37.792547,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608243,-37.792547,1.5758057 144.9608564,-37.792543,0.0228043 144.9608268,-37.792547,0.0585518 144.9608243,-37.792547,1.5758057</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_56009bc1-1d50-40d9-b693-b962937cad0a_WallSurface">
+      <kml:name>UUID_56009bc1-1d50-40d9-b693-b962937cad0a_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960778,-37.7925552,1.8659172 144.960778,-37.7925552,0.0977936 144.9607947,-37.792605,0.0 144.960778,-37.7925552,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960778,-37.7925552,1.8659172 144.9607947,-37.792605,0.0 144.9607947,-37.792605,1.8659172 144.960778,-37.7925552,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9607947,-37.792605,1.8659172 144.9607947,-37.792605,0.0 144.9608422,-37.7925923,1.8659172 144.9607947,-37.792605,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9608422,-37.7925923,1.8659172 144.9607947,-37.792605,0.0 144.9608422,-37.7925923,0.0184479 144.9608422,-37.7925923,1.8659172</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_6debe1dc-84ef-4e98-b780-eeab84ae60d1_RoofSurface">
+      <kml:name>UUID_6debe1dc-84ef-4e98-b780-eeab84ae60d1_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600704,-37.7927322,3.3371811 144.960244,-37.7926541,3.3371811 144.9602126,-37.7926085,3.3371811 144.9600704,-37.7927322,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600704,-37.7927322,3.3371811 144.9602126,-37.7926085,3.3371811 144.9600387,-37.7926866,3.3371811 144.9600704,-37.7927322,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600387,-37.7926866,3.3371811 144.9602029,-37.7926128,3.3371811 144.9602029,-37.7926128,0.2361374 144.9600387,-37.7926866,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960244,-37.7926541,3.3371811 144.960244,-37.7926541,0.2338028 144.9602433,-37.7926541,0.2329979 144.960244,-37.7926541,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960244,-37.7926541,3.3371811 144.9602433,-37.7926541,0.2329979 144.9602433,-37.7926541,3.3371811 144.960244,-37.7926541,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9601574,-37.7926931,0.0929832 144.960244,-37.7926541,0.2338028 144.960244,-37.7926541,3.3371811 144.9601574,-37.7926931,0.0929832</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960244,-37.7926541,3.3371811 144.9600704,-37.7927322,3.3371811 144.9600704,-37.7927322,0.0929832 144.960244,-37.7926541,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960244,-37.7926541,3.3371811 144.9600704,-37.7927322,0.0929832 144.9601574,-37.7926931,0.0929832 144.960244,-37.7926541,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602588,-37.7925417,7.9846344 144.9602676,-37.7925553,7.9846344 144.9602738,-37.7925374,7.9846344 144.9602588,-37.7925417,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602738,-37.7925374,7.9846344 144.9602676,-37.7925553,7.9846344 144.9602827,-37.7925511,7.9846344 144.9602738,-37.7925374,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602742,-37.7925374,6.7179718 144.9602738,-37.7925374,6.6829453 144.9602738,-37.7925374,7.9846344 144.9602742,-37.7925374,6.7179718</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602827,-37.7925511,7.9846344 144.9602827,-37.7925511,6.6851692 144.9602827,-37.7925511,6.7133446 144.9602827,-37.7925511,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602827,-37.7925511,6.7133446 144.9602745,-37.7925374,6.718544 144.9602738,-37.7925374,7.9846344 144.9602827,-37.7925511,6.7133446</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602827,-37.7925511,6.7133446 144.9602738,-37.7925374,7.9846344 144.9602827,-37.7925511,7.9846344 144.9602827,-37.7925511,6.7133446</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602745,-37.7925374,6.718544 144.9602742,-37.7925374,6.7179718 144.9602738,-37.7925374,7.9846344 144.9602745,-37.7925374,6.718544</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602816,-37.7925511,6.686985 144.9602827,-37.7925511,6.6851692 144.9602827,-37.7925511,7.9846344 144.9602816,-37.7925511,6.686985</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602827,-37.7925511,7.9846344 144.9602676,-37.7925553,7.9846344 144.9602676,-37.7925553,6.6822586 144.9602827,-37.7925511,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602827,-37.7925511,7.9846344 144.9602676,-37.7925553,6.6822586 144.9602816,-37.7925511,6.686985 144.9602827,-37.7925511,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602673,-37.7925553,6.7178535 144.9602676,-37.7925553,6.6822586 144.9602676,-37.7925553,7.9846344 144.9602673,-37.7925553,6.7178535</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602588,-37.7925417,7.9846344 144.9602588,-37.7925417,6.6864204 144.9602591,-37.7925417,6.7130623 144.9602588,-37.7925417,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602591,-37.7925417,6.7130623 144.9602673,-37.7925553,6.7184486 144.9602676,-37.7925553,7.9846344 144.9602591,-37.7925417,6.7130623</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602591,-37.7925417,6.7130623 144.9602676,-37.7925553,7.9846344 144.9602588,-37.7925417,7.9846344 144.9602591,-37.7925417,6.7130623</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602673,-37.7925553,6.7184486 144.9602673,-37.7925553,6.7178535 144.9602676,-37.7925553,7.9846344 144.9602673,-37.7925553,6.7184486</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602598,-37.7925417,6.6881409 144.9602588,-37.7925417,6.6864204 144.9602588,-37.7925417,7.9846344 144.9602598,-37.7925417,6.6881409</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602588,-37.7925417,7.9846344 144.9602738,-37.7925374,7.9846344 144.9602738,-37.7925374,6.6829453 144.9602588,-37.7925417,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602588,-37.7925417,7.9846344 144.9602738,-37.7925374,6.6829453 144.9602598,-37.7925417,6.6881409 144.9602588,-37.7925417,7.9846344</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602819,-37.7925511,6.7276573 144.9602742,-37.7925374,6.7276573 144.9602673,-37.7925553,6.7276573 144.9602819,-37.7925511,6.7276573</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602673,-37.7925553,6.7276573 144.9602742,-37.7925374,6.7276573 144.9602595,-37.7925417,6.7276573 144.9602673,-37.7925553,6.7276573</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602101,-37.7925318,4.8359146 144.9602673,-37.7925553,6.7276573 144.9602595,-37.7925417,6.7276573 144.9602101,-37.7925318,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602101,-37.7925318,4.8359146 144.9602552,-37.7925957,4.8359146 144.9602673,-37.7925553,6.7276573 144.9602101,-37.7925318,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602873,-37.7924971,4.8359146 144.9602595,-37.7925417,6.7276573 144.9602742,-37.7925374,6.7276573 144.9602873,-37.7924971,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602873,-37.7924971,4.8359146 144.9602101,-37.7925318,4.8359146 144.9602595,-37.7925417,6.7276573 144.9602873,-37.7924971,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603324,-37.792561,4.8359146 144.9602742,-37.7925374,6.7276573 144.9602819,-37.7925511,6.7276573 144.9603324,-37.792561,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603324,-37.792561,4.8359146 144.9602873,-37.7924971,4.8359146 144.9602742,-37.7925374,6.7276573 144.9603324,-37.792561,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602552,-37.7925957,4.8359146 144.9602819,-37.7925511,6.7276573 144.9602673,-37.7925553,6.7276573 144.9602552,-37.7925957,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602552,-37.7925957,4.8359146 144.9603324,-37.792561,4.8359146 144.9602819,-37.7925511,6.7276573 144.9602552,-37.7925957,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602552,-37.7925957,4.8359146 144.9602552,-37.7925957,3.7059593 144.9603324,-37.792561,4.8359146 144.9602552,-37.7925957,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603324,-37.792561,4.8359146 144.9602552,-37.7925957,3.7059593 144.9603324,-37.792561,3.7059593 144.9603324,-37.792561,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602101,-37.7925318,4.8359146 144.9602101,-37.7925318,3.7059593 144.9602552,-37.7925957,4.8359146 144.9602101,-37.7925318,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602552,-37.7925957,4.8359146 144.9602101,-37.7925318,3.7059593 144.9602552,-37.7925957,3.7059593 144.9602552,-37.7925957,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602873,-37.7924971,4.8359146 144.9602873,-37.7924971,3.7059593 144.9602101,-37.7925318,4.8359146 144.9602873,-37.7924971,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602101,-37.7925318,4.8359146 144.9602873,-37.7924971,3.7059593 144.9602101,-37.7925318,3.7059593 144.9602101,-37.7925318,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603324,-37.792561,4.8359146 144.9603324,-37.792561,3.7059593 144.9602873,-37.7924971,4.8359146 144.9603324,-37.792561,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602873,-37.7924971,4.8359146 144.9603324,-37.792561,3.7059593 144.9602873,-37.7924971,3.7059593 144.9602873,-37.7924971,4.8359146</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9601293,-37.7925124,3.7059593 144.9602336,-37.7926584,3.7059593 144.9603076,-37.7924299,3.7059593 144.9601293,-37.7925124,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603076,-37.7924299,3.7059593 144.9602336,-37.7926584,3.7059593 144.9604117,-37.7925804,3.7059593 144.9603076,-37.7924299,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603598,-37.7925074,0.4716339 144.9603076,-37.7924299,0.4776421 144.9603076,-37.7924299,3.7059593 144.9603598,-37.7925074,0.4716339</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603076,-37.7924299,3.7059593 144.9604117,-37.7925804,3.7059593 144.9604117,-37.7925804,0.5102081 144.9603076,-37.7924299,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603076,-37.7924299,3.7059593 144.9604117,-37.7925804,0.5102081 144.9603598,-37.7925074,0.4716339 144.9603076,-37.7924299,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602336,-37.7926584,3.7059593 144.9602336,-37.7926584,3.3371811 144.9602433,-37.7926541,3.3371811 144.9602336,-37.7926584,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602433,-37.7926541,3.3371811 144.9602433,-37.7926541,0.2329979 144.9603274,-37.792615,0.2329979 144.9602433,-37.7926541,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603274,-37.792615,0.2329979 144.9604117,-37.7925804,0.5102081 144.9604117,-37.7925804,3.7059593 144.9603274,-37.792615,0.2329979</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9604117,-37.7925804,3.7059593 144.9602336,-37.7926584,3.7059593 144.9602433,-37.7926541,3.3371811 144.9604117,-37.7925804,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9604117,-37.7925804,3.7059593 144.9602433,-37.7926541,3.3371811 144.9603274,-37.792615,0.2329979 144.9604117,-37.7925804,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602029,-37.7926128,3.3371811 144.9602336,-37.7926584,3.3371811 144.9602336,-37.7926584,3.7059593 144.9602029,-37.7926128,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9601293,-37.7925124,3.7059593 144.9601293,-37.7925124,0.2609406 144.9602029,-37.7926128,0.2361374 144.9601293,-37.7925124,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9601293,-37.7925124,3.7059593 144.9602029,-37.7926128,0.2361374 144.9602029,-37.7926128,3.3371811 144.9601293,-37.7925124,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602029,-37.7926128,3.3371811 144.9602336,-37.7926584,3.7059593 144.9601293,-37.7925124,3.7059593 144.9602029,-37.7926128,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603076,-37.7924299,3.7059593 144.9603076,-37.7924299,0.4776421 144.9602184,-37.7924734,0.2609406 144.9603076,-37.7924299,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602184,-37.7924734,0.2609406 144.9601293,-37.7925124,0.2609406 144.9603076,-37.7924299,3.7059593 144.9602184,-37.7924734,0.2609406</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9603076,-37.7924299,3.7059593 144.9601293,-37.7925124,0.2609406 144.9601293,-37.7925124,3.7059593 144.9603076,-37.7924299,3.7059593</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_6debe1dc-84ef-4e98-b780-eeab84ae60d1_WallSurface">
+      <kml:name>UUID_6debe1dc-84ef-4e98-b780-eeab84ae60d1_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9601205,-37.7926519,0.0 144.9600387,-37.7926866,0.0 144.9600387,-37.7926866,3.3371811 144.9601205,-37.7926519,0.0</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600387,-37.7926866,3.3371811 144.9602029,-37.7926128,0.2361374 144.9601205,-37.7926519,0.0 144.9600387,-37.7926866,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600387,-37.7926866,3.3371811 144.9600387,-37.7926866,0.0 144.9600704,-37.7927322,3.3371811 144.9600387,-37.7926866,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9600704,-37.7927322,3.3371811 144.9600387,-37.7926866,0.0 144.9600704,-37.7927322,0.0929832 144.9600704,-37.7927322,3.3371811</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_3d55a86c-4a45-4f0c-8b0c-8a14c078017b_RoofSurface">
+      <kml:name>UUID_3d55a86c-4a45-4f0c-8b0c-8a14c078017b_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614046,-37.7922731,2.3306389 144.9614046,-37.7922731,0.0235519 144.9614623,-37.7922651,2.3306389 144.9614046,-37.7922731,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614623,-37.7922651,2.3306389 144.9614046,-37.7922731,0.0235519 144.9614623,-37.7922651,0.0939636 144.9614623,-37.7922651,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614623,-37.7922651,2.3306389 144.9614623,-37.7922651,0.0939636 144.961458,-37.7922425,0.0802498 144.9614623,-37.7922651,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614623,-37.7922651,2.3306389 144.961458,-37.7922425,0.0802498 144.961458,-37.7922425,2.3306389 144.9614623,-37.7922651,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614025,-37.7922731,2.5806389 144.9614025,-37.7922731,2.3306389 144.9614647,-37.7922697,2.5806389 144.9614025,-37.7922731,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.5806389 144.9614025,-37.7922731,2.3306389 144.9614647,-37.7922697,2.3306389 144.9614647,-37.7922697,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613978,-37.7922505,2.5806389 144.9613978,-37.7922505,2.3306389 144.9614025,-37.7922731,2.5806389 144.9613978,-37.7922505,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614025,-37.7922731,2.5806389 144.9613978,-37.7922505,2.3306389 144.9614025,-37.7922731,2.3306389 144.9614025,-37.7922731,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614597,-37.7922426,2.5806389 144.9614597,-37.7922426,2.3306389 144.9613978,-37.7922505,2.5806389 144.9614597,-37.7922426,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613978,-37.7922505,2.5806389 144.9614597,-37.7922426,2.3306389 144.9613978,-37.7922505,2.3306389 144.9613978,-37.7922505,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.5806389 144.9614647,-37.7922697,2.3306389 144.9614597,-37.7922426,2.5806389 144.9614647,-37.7922697,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614597,-37.7922426,2.5806389 144.9614647,-37.7922697,2.3306389 144.9614597,-37.7922426,2.3306389 144.9614597,-37.7922426,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614597,-37.7922426,2.5806389 144.9613978,-37.7922505,2.5806389 144.9614647,-37.7922697,2.5806389 144.9614597,-37.7922426,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.5806389 144.9613978,-37.7922505,2.5806389 144.9614025,-37.7922731,2.5806389 144.9614647,-37.7922697,2.5806389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614025,-37.7922731,2.3306389 144.9614046,-37.7922731,2.3306389 144.9614647,-37.7922697,2.3306389 144.9614025,-37.7922731,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.3306389 144.9614046,-37.7922731,2.3306389 144.9614623,-37.7922651,2.3306389 144.9614647,-37.7922697,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613978,-37.7922505,2.3306389 144.9614003,-37.7922505,2.3306389 144.9614025,-37.7922731,2.3306389 144.9613978,-37.7922505,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614025,-37.7922731,2.3306389 144.9614003,-37.7922505,2.3306389 144.9614046,-37.7922731,2.3306389 144.9614025,-37.7922731,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614597,-37.7922426,2.3306389 144.961458,-37.7922425,2.3306389 144.9613978,-37.7922505,2.3306389 144.9614597,-37.7922426,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613978,-37.7922505,2.3306389 144.961458,-37.7922425,2.3306389 144.9614003,-37.7922505,2.3306389 144.9613978,-37.7922505,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.3306389 144.9614623,-37.7922651,2.3306389 144.961458,-37.7922425,2.3306389 144.9614647,-37.7922697,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614647,-37.7922697,2.3306389 144.961458,-37.7922425,2.3306389 144.9614597,-37.7922426,2.3306389 144.9614647,-37.7922697,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_3d55a86c-4a45-4f0c-8b0c-8a14c078017b_WallSurface">
+      <kml:name>UUID_3d55a86c-4a45-4f0c-8b0c-8a14c078017b_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614003,-37.7922505,2.3306389 144.9614003,-37.7922505,0.0 144.9614046,-37.7922731,2.3306389 144.9614003,-37.7922505,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614046,-37.7922731,2.3306389 144.9614003,-37.7922505,0.0 144.9614046,-37.7922731,0.0235519 144.9614046,-37.7922731,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961458,-37.7922425,2.3306389 144.961458,-37.7922425,0.0802498 144.9614003,-37.7922505,0.0 144.961458,-37.7922425,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961458,-37.7922425,2.3306389 144.9614003,-37.7922505,0.0 144.9614003,-37.7922505,2.3306389 144.961458,-37.7922425,2.3306389</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_d72794f3-38fd-4816-8954-1efd306e805d_RoofSurface">
+      <kml:name>UUID_d72794f3-38fd-4816-8954-1efd306e805d_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960267,-37.793096,2.8609123 144.9602884,-37.7930514,2.8609123 144.9602719,-37.7930466,2.8609123 144.960267,-37.793096,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960267,-37.793096,2.8609123 144.9602719,-37.7930466,2.8609123 144.9602508,-37.7930913,2.8609123 144.960267,-37.793096,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960267,-37.793096,2.8609123 144.960267,-37.793096,0.0617409 144.9602884,-37.7930514,0.0257301 144.960267,-37.793096,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960267,-37.793096,2.8609123 144.9602884,-37.7930514,0.0257301 144.9602884,-37.7930514,2.8609123 144.960267,-37.793096,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602508,-37.7930913,2.8609123 144.9602508,-37.7930913,0.0524483 144.960267,-37.793096,2.8609123 144.9602508,-37.7930913,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.960267,-37.793096,2.8609123 144.9602508,-37.7930913,0.0524483 144.960267,-37.793096,0.0617409 144.960267,-37.793096,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_d72794f3-38fd-4816-8954-1efd306e805d_WallSurface">
+      <kml:name>UUID_d72794f3-38fd-4816-8954-1efd306e805d_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602719,-37.7930466,2.8609123 144.9602719,-37.7930466,0.0 144.9602508,-37.7930913,2.8609123 144.9602719,-37.7930466,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602508,-37.7930913,2.8609123 144.9602719,-37.7930466,0.0 144.9602508,-37.7930913,0.0524483 144.9602508,-37.7930913,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602884,-37.7930514,2.8609123 144.9602884,-37.7930514,0.0257301 144.9602719,-37.7930466,0.0 144.9602884,-37.7930514,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9602884,-37.7930514,2.8609123 144.9602719,-37.7930466,0.0 144.9602719,-37.7930466,2.8609123 144.9602884,-37.7930514,2.8609123</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_4e480586-d7be-4b77-a62c-c7f79d8bb3bb_RoofSurface">
+      <kml:name>UUID_4e480586-d7be-4b77-a62c-c7f79d8bb3bb_RoofSurface</kml:name>
+      <kml:styleUrl>#RoofSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,8.4614677 144.961549,-37.7930506,8.4614677 144.9615535,-37.7930552,8.4614677 144.9615569,-37.7930463,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,8.4614677 144.9615535,-37.7930552,8.4614677 144.9615616,-37.7930554,8.4614677 144.9615569,-37.7930463,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615535,-37.7930552,8.4614677 144.9615535,-37.7930552,1.0191689 144.9615616,-37.7930554,8.4614677 144.9615535,-37.7930552,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615616,-37.7930554,8.4614677 144.9615535,-37.7930552,1.0191689 144.9615616,-37.7930554,1.025135 144.9615616,-37.7930554,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961549,-37.7930506,8.4614677 144.961549,-37.7930506,1.0062981 144.9615535,-37.7930552,8.4614677 144.961549,-37.7930506,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615535,-37.7930552,8.4614677 144.961549,-37.7930506,1.0062981 144.9615535,-37.7930552,1.0191689 144.9615535,-37.7930552,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,1.0123711 144.961555,-37.7930508,1.0108414 144.9615546,-37.7930507,1.0106659 144.9615569,-37.7930463,1.0123711</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961549,-37.7930506,1.0062981 144.961549,-37.7930506,8.4614677 144.9615569,-37.7930463,8.4614677 144.961549,-37.7930506,1.0062981</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961549,-37.7930506,1.0062981 144.9615569,-37.7930463,8.4614677 144.9615569,-37.7930463,1.0123711 144.961549,-37.7930506,1.0062981</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,1.0123711 144.9615546,-37.7930507,1.0106659 144.961549,-37.7930506,1.0062981 144.9615569,-37.7930463,1.0123711</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615582,-37.7930508,1.0162621 144.9615569,-37.7930463,1.0123711 144.9615569,-37.7930463,8.4614677 144.9615582,-37.7930508,1.0162621</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,8.4614677 144.9615616,-37.7930554,8.4614677 144.9615616,-37.7930554,1.025135 144.9615569,-37.7930463,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615569,-37.7930463,8.4614677 144.9615616,-37.7930554,1.025135 144.9615585,-37.7930508,1.0166473 144.9615569,-37.7930463,8.4614677</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615585,-37.7930508,1.0166473 144.9615582,-37.7930508,1.0162621 144.9615569,-37.7930463,8.4614677 144.9615585,-37.7930508,1.0166473</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614556,-37.7931437,8.4622154 144.9614476,-37.793148,8.4622154 144.9614521,-37.7931526,8.4622154 144.9614556,-37.7931437,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614556,-37.7931437,8.4622154 144.9614521,-37.7931526,8.4622154 144.9614599,-37.7931527,8.4622154 144.9614556,-37.7931437,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614521,-37.7931526,8.4622154 144.9614521,-37.7931526,0.7200661 144.9614599,-37.7931527,8.4622154 144.9614521,-37.7931526,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614599,-37.7931527,8.4622154 144.9614521,-37.7931526,0.7200661 144.9614599,-37.7931527,0.7618179 144.9614599,-37.7931527,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614476,-37.793148,8.4622154 144.9614476,-37.793148,0.6923485 144.9614521,-37.7931526,8.4622154 144.9614476,-37.793148,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614521,-37.7931526,8.4622154 144.9614476,-37.793148,0.6923485 144.9614521,-37.7931526,0.7200661 144.9614521,-37.7931526,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614556,-37.7931437,8.4622154 144.9614556,-37.7931437,0.7344627 144.9614476,-37.793148,0.6923485 144.9614556,-37.7931437,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614556,-37.7931437,8.4622154 144.9614476,-37.793148,0.6923485 144.9614476,-37.793148,8.4622154 144.9614556,-37.7931437,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614599,-37.7931527,8.4622154 144.9614599,-37.7931527,0.7618179 144.9614556,-37.7931437,0.7344627 144.9614599,-37.7931527,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614599,-37.7931527,8.4622154 144.9614556,-37.7931437,0.7344627 144.9614556,-37.7931437,8.4622154 144.9614599,-37.7931527,8.4622154</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612962,-37.7931589,8.4626236 144.9612882,-37.7931633,8.4626236 144.961301,-37.7931635,8.4626236 144.9612962,-37.7931589,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961301,-37.7931635,8.4626236 144.9612882,-37.7931633,8.4626236 144.9612927,-37.7931679,8.4626236 144.961301,-37.7931635,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612927,-37.7931679,8.4626236 144.9612927,-37.7931679,0.2474632 144.961301,-37.7931635,8.4626236 144.9612927,-37.7931679,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961301,-37.7931635,8.4626236 144.9612927,-37.7931679,0.2474632 144.961301,-37.7931635,0.2521896 144.961301,-37.7931635,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612882,-37.7931633,8.4626236 144.9612882,-37.7931633,0.2407074 144.9612927,-37.7931679,8.4626236 144.9612882,-37.7931633,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612927,-37.7931679,8.4626236 144.9612882,-37.7931633,0.2407074 144.9612927,-37.7931679,0.2474632 144.9612927,-37.7931679,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612962,-37.7931589,8.4626236 144.9612962,-37.7931589,0.2457314 144.9612882,-37.7931633,0.2407074 144.9612962,-37.7931589,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612962,-37.7931589,8.4626236 144.9612882,-37.7931633,0.2407074 144.9612882,-37.7931633,8.4626236 144.9612962,-37.7931589,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961301,-37.7931635,8.4626236 144.961301,-37.7931635,0.2521896 144.9612962,-37.7931589,0.2457314 144.961301,-37.7931635,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961301,-37.7931635,8.4626236 144.9612962,-37.7931589,0.2457314 144.9612962,-37.7931589,8.4626236 144.961301,-37.7931635,8.4626236</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611767,-37.7930757,8.4636497 144.9611688,-37.7930801,8.4636497 144.9611733,-37.7930847,8.4636497 144.9611767,-37.7930757,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611767,-37.7930757,8.4636497 144.9611733,-37.7930847,8.4636497 144.9611812,-37.7930803,8.4636497 144.9611767,-37.7930757,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611733,-37.7930847,8.4636497 144.9611733,-37.7930847,0.0639343 144.9611812,-37.7930803,8.4636497 144.9611733,-37.7930847,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611812,-37.7930803,8.4636497 144.9611733,-37.7930847,0.0639343 144.9611812,-37.7930803,0.0681038 144.9611812,-37.7930803,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611688,-37.7930801,8.4636497 144.9611688,-37.7930801,0.0580559 144.9611733,-37.7930847,8.4636497 144.9611688,-37.7930801,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611733,-37.7930847,8.4636497 144.9611688,-37.7930801,0.0580559 144.9611733,-37.7930847,0.0639343 144.9611733,-37.7930847,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611767,-37.7930757,8.4636497 144.9611767,-37.7930757,0.0621452 144.9611688,-37.7930801,0.0580559 144.9611767,-37.7930757,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611767,-37.7930757,8.4636497 144.9611688,-37.7930801,0.0580559 144.9611688,-37.7930801,8.4636497 144.9611767,-37.7930757,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611812,-37.7930803,8.4636497 144.9611812,-37.7930803,0.0681038 144.9611767,-37.7930757,0.0621452 144.9611812,-37.7930803,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611812,-37.7930803,8.4636497 144.9611767,-37.7930757,0.0621452 144.9611767,-37.7930757,8.4636497 144.9611812,-37.7930803,8.4636497</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961178,-37.7929406,8.4625244 144.96117,-37.792945,8.4625244 144.9611827,-37.7929497,8.4625244 144.961178,-37.7929406,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611827,-37.7929497,8.4625244 144.96117,-37.792945,8.4625244 144.9611745,-37.7929495,8.4625244 144.9611827,-37.7929497,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611745,-37.7929495,8.4625244 144.9611749,-37.7929495,0.0063248 144.9611827,-37.7929497,8.4625244 144.9611745,-37.7929495,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611827,-37.7929497,8.4625244 144.9611749,-37.7929495,0.0063248 144.9611828,-37.7929452,0.011631 144.9611827,-37.7929497,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611827,-37.7929497,8.4625244 144.9611828,-37.7929452,0.011631 144.9611783,-37.7929406,0.0054626 144.9611827,-37.7929497,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611827,-37.7929497,8.4625244 144.9611783,-37.7929406,0.0054626 144.961178,-37.7929406,8.4625244 144.9611827,-37.7929497,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615269,-37.7929106,8.4476814 144.9615191,-37.7929104,8.4476814 144.9615235,-37.7929195,8.4476814 144.9615269,-37.7929106,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615269,-37.7929106,8.4476814 144.9615235,-37.7929195,8.4476814 144.9615314,-37.7929152,8.4476814 144.9615269,-37.7929106,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615235,-37.7929195,8.4476814 144.9615235,-37.7929195,0.7363663 144.9615314,-37.7929152,8.4476814 144.9615235,-37.7929195,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615314,-37.7929152,8.4476814 144.9615235,-37.7929195,0.7363663 144.9615314,-37.7929152,0.7404709 144.9615314,-37.7929152,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615191,-37.7929104,8.4476814 144.9615191,-37.7929104,0.7177467 144.9615235,-37.7929195,8.4476814 144.9615191,-37.7929104,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615235,-37.7929195,8.4476814 144.9615191,-37.7929104,0.7177467 144.9615235,-37.7929195,0.7363663 144.9615235,-37.7929195,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615269,-37.7929106,8.4476814 144.9615269,-37.7929106,0.7250137 144.9615191,-37.7929104,0.7177467 144.9615269,-37.7929106,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615269,-37.7929106,8.4476814 144.9615191,-37.7929104,0.7177467 144.9615191,-37.7929104,8.4476814 144.9615269,-37.7929106,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615314,-37.7929152,8.4476814 144.9615314,-37.7929152,0.7404709 144.9615269,-37.7929106,0.7250137 144.9615314,-37.7929152,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615314,-37.7929152,8.4476814 144.9615269,-37.7929106,0.7250137 144.9615269,-37.7929106,8.4476814 144.9615314,-37.7929152,8.4476814</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614092,-37.792841,8.046917 144.9614013,-37.7928453,8.046917 144.9614136,-37.79285,8.046917 144.9614092,-37.792841,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614136,-37.79285,8.046917 144.9614013,-37.7928453,8.046917 144.9614057,-37.7928544,8.046917 144.9614136,-37.79285,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614108,-37.79285,0.4947433 144.9614136,-37.79285,0.502346 144.9614136,-37.79285,8.046917 144.9614108,-37.79285,0.4947433</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614136,-37.79285,8.046917 144.9614057,-37.7928544,8.046917 144.9614057,-37.7928544,0.4829597 144.9614136,-37.79285,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614136,-37.79285,8.046917 144.9614057,-37.7928544,0.4829597 144.9614108,-37.79285,0.4947433 144.9614136,-37.79285,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614013,-37.7928453,8.046917 144.9614013,-37.7928453,0.4891891 144.9614057,-37.7928544,0.4829597 144.9614013,-37.7928453,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614013,-37.7928453,8.046917 144.9614057,-37.7928544,0.4829597 144.9614057,-37.7928544,8.046917 144.9614013,-37.7928453,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614092,-37.792841,8.046917 144.9614092,-37.792841,0.5082664 144.9614013,-37.7928453,0.4891891 144.9614092,-37.792841,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614092,-37.792841,8.046917 144.9614013,-37.7928453,0.4891891 144.9614013,-37.7928453,8.046917 144.9614092,-37.792841,8.046917</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614136,-37.79285,0.502346 144.9614123,-37.7928455,0.5040817 144.9614092,-37.792841,0.5082664 144.9614136,-37.79285,0.502346</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614092,-37.792841,0.5082664 144.9614092,-37.792841,8.046917 144.9614136,-37.79285,0.502346 144.9614092,-37.792841,0.5082664</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614136,-37.79285,0.502346 144.9614092,-37.792841,8.046917 144.9614136,-37.79285,8.046917 144.9614136,-37.79285,0.502346</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612669,-37.7928565,8.0009308 144.9612589,-37.7928609,8.0009308 144.9612633,-37.79287,8.0009308 144.9612669,-37.7928565,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612669,-37.7928565,8.0009308 144.9612633,-37.79287,8.0009308 144.9612712,-37.7928656,8.0009308 144.9612669,-37.7928565,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612633,-37.79287,8.0009308 144.9612633,-37.79287,0.1569252 144.9612712,-37.7928656,8.0009308 144.9612633,-37.79287,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612712,-37.7928656,8.0009308 144.9612633,-37.79287,0.1569252 144.9612712,-37.7928656,0.18507 144.9612712,-37.7928656,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612589,-37.7928609,8.0009308 144.9612589,-37.7928609,0.1509323 144.9612633,-37.79287,8.0009308 144.9612589,-37.7928609,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612633,-37.79287,8.0009308 144.9612589,-37.7928609,0.1509323 144.9612633,-37.79287,0.1569252 144.9612633,-37.79287,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612669,-37.7928565,8.0009308 144.9612669,-37.7928565,0.1797142 144.9612589,-37.7928609,0.1509323 144.9612669,-37.7928565,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612669,-37.7928565,8.0009308 144.9612589,-37.7928609,0.1509323 144.9612589,-37.7928609,8.0009308 144.9612669,-37.7928565,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612712,-37.7928656,8.0009308 144.9612712,-37.7928656,0.18507 144.9612669,-37.7928565,0.1797142 144.9612712,-37.7928656,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612712,-37.7928656,8.0009308 144.9612669,-37.7928565,0.1797142 144.9612669,-37.7928565,8.0009308 144.9612712,-37.7928656,8.0009308</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613954,-37.7929939,11.7516212 144.9613718,-37.7929755,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613954,-37.7929939,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613401,-37.7929794,11.7516212 144.9613201,-37.7929971,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613401,-37.7929794,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613718,-37.7929755,11.7516212 144.9613401,-37.7929794,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613718,-37.7929755,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613791,-37.7930342,11.7516212 144.9613984,-37.7930165,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613791,-37.7930342,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613984,-37.7930165,11.7516212 144.9613954,-37.7929939,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613984,-37.7930165,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613251,-37.7930242,11.7516212 144.9613499,-37.7930382,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613251,-37.7930242,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613499,-37.7930382,11.7516212 144.9613791,-37.7930342,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613499,-37.7930382,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613201,-37.7929971,11.7516212 144.9613251,-37.7930242,11.7516212 144.9613592,-37.7930068,12.5453491 144.9613201,-37.7929971,11.7516212</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613201,-37.7929971,10.9458504 144.9613251,-37.7930242,11.7516212 144.9613201,-37.7929971,11.7516212 144.9613201,-37.7929971,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613201,-37.7929971,10.9458504 144.9613247,-37.7930242,10.9458504 144.9613251,-37.7930242,11.7516212 144.9613201,-37.7929971,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613398,-37.7929794,10.9458504 144.9613201,-37.7929971,11.7516212 144.9613401,-37.7929794,11.7516212 144.9613398,-37.7929794,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613398,-37.7929794,10.9458504 144.9613201,-37.7929971,10.9458504 144.9613201,-37.7929971,11.7516212 144.9613398,-37.7929794,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613718,-37.7929755,10.9458504 144.9613401,-37.7929794,11.7516212 144.9613718,-37.7929755,11.7516212 144.9613718,-37.7929755,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613718,-37.7929755,10.9458504 144.9613398,-37.7929794,10.9458504 144.9613401,-37.7929794,11.7516212 144.9613718,-37.7929755,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613951,-37.7929939,10.9458504 144.9613718,-37.7929755,11.7516212 144.9613954,-37.7929939,11.7516212 144.9613951,-37.7929939,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613951,-37.7929939,10.9458504 144.9613718,-37.7929755,10.9458504 144.9613718,-37.7929755,11.7516212 144.9613951,-37.7929939,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961398,-37.7930165,10.9458504 144.9613954,-37.7929939,11.7516212 144.9613984,-37.7930165,11.7516212 144.961398,-37.7930165,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961398,-37.7930165,10.9458504 144.9613951,-37.7929939,10.9458504 144.9613954,-37.7929939,11.7516212 144.961398,-37.7930165,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613787,-37.7930342,10.9458504 144.9613984,-37.7930165,11.7516212 144.9613791,-37.7930342,11.7516212 144.9613787,-37.7930342,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613787,-37.7930342,10.9458504 144.961398,-37.7930165,10.9458504 144.9613984,-37.7930165,11.7516212 144.9613787,-37.7930342,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613495,-37.7930382,10.9458504 144.9613791,-37.7930342,11.7516212 144.9613499,-37.7930382,11.7516212 144.9613495,-37.7930382,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613495,-37.7930382,10.9458504 144.9613787,-37.7930342,10.9458504 144.9613791,-37.7930342,11.7516212 144.9613495,-37.7930382,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613247,-37.7930242,10.9458504 144.9613499,-37.7930382,11.7516212 144.9613251,-37.7930242,11.7516212 144.9613247,-37.7930242,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613247,-37.7930242,10.9458504 144.9613495,-37.7930382,10.9458504 144.9613499,-37.7930382,11.7516212 144.9613247,-37.7930242,10.9458504</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612485,-37.7928517,8.3759918 144.9613201,-37.7929971,10.9458504 144.9613398,-37.7929794,10.9458504 144.9612485,-37.7928517,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612485,-37.7928517,8.3759918 144.9611423,-37.792958,8.3759918 144.9613201,-37.7929971,10.9458504 144.9612485,-37.7928517,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,8.3759918 144.9613398,-37.7929794,10.9458504 144.9613718,-37.7929755,10.9458504 144.9614198,-37.7928321,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,8.3759918 144.9612485,-37.7928517,8.3759918 144.9613398,-37.7929794,10.9458504 144.9614198,-37.7928321,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615554,-37.7929201,8.3759918 144.9613718,-37.7929755,10.9458504 144.9613951,-37.7929939,10.9458504 144.9615554,-37.7929201,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615554,-37.7929201,8.3759918 144.9614198,-37.7928321,8.3759918 144.9613718,-37.7929755,10.9458504 144.9615554,-37.7929201,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,8.3759918 144.9613951,-37.7929939,10.9458504 144.961398,-37.7930165,10.9458504 144.9615783,-37.7930557,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,8.3759918 144.9615554,-37.7929201,8.3759918 144.9613951,-37.7929939,10.9458504 144.9615783,-37.7930557,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961471,-37.7931619,8.3759918 144.961398,-37.7930165,10.9458504 144.9613787,-37.7930342,10.9458504 144.961471,-37.7931619,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961471,-37.7931619,8.3759918 144.9615783,-37.7930557,8.3759918 144.961398,-37.7930165,10.9458504 144.961471,-37.7931619,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,8.3759918 144.9613787,-37.7930342,10.9458504 144.9613495,-37.7930382,10.9458504 144.9612998,-37.7931815,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,8.3759918 144.961471,-37.7931619,8.3759918 144.9613787,-37.7930342,10.9458504 144.9612998,-37.7931815,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611642,-37.7930936,8.3759918 144.9613495,-37.7930382,10.9458504 144.9613247,-37.7930242,10.9458504 144.9611642,-37.7930936,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611642,-37.7930936,8.3759918 144.9612998,-37.7931815,8.3759918 144.9613495,-37.7930382,10.9458504 144.9611642,-37.7930936,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,8.3759918 144.9613247,-37.7930242,10.9458504 144.9613201,-37.7929971,10.9458504 144.9611423,-37.792958,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,8.3759918 144.9611642,-37.7930936,8.3759918 144.9613247,-37.7930242,10.9458504 144.9611423,-37.792958,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,8.3759918 144.9615783,-37.7930557,7.7259903 144.9615554,-37.7929201,8.3759918 144.9615783,-37.7930557,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615554,-37.7929201,8.3759918 144.9615783,-37.7930557,7.7259903 144.9615554,-37.7929201,7.7259903 144.9615554,-37.7929201,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961471,-37.7931619,8.3759918 144.961471,-37.7931619,7.7259903 144.9615783,-37.7930557,8.3759918 144.961471,-37.7931619,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,8.3759918 144.961471,-37.7931619,7.7259903 144.9615783,-37.7930557,7.7259903 144.9615783,-37.7930557,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,8.3759918 144.9612998,-37.7931815,7.7259903 144.961471,-37.7931619,8.3759918 144.9612998,-37.7931815,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961471,-37.7931619,8.3759918 144.9612998,-37.7931815,7.7259903 144.961471,-37.7931619,7.7259903 144.961471,-37.7931619,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611642,-37.7930936,8.3759918 144.9611642,-37.7930936,7.7259903 144.9612998,-37.7931815,8.3759918 144.9611642,-37.7930936,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,8.3759918 144.9611642,-37.7930936,7.7259903 144.9612998,-37.7931815,7.7259903 144.9612998,-37.7931815,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,8.3759918 144.9611423,-37.792958,7.7259903 144.9611642,-37.7930936,8.3759918 144.9611423,-37.792958,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611642,-37.7930936,8.3759918 144.9611423,-37.792958,7.7259903 144.9611642,-37.7930936,7.7259903 144.9611642,-37.7930936,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612485,-37.7928517,8.3759918 144.9612485,-37.7928517,7.7259903 144.9611423,-37.792958,8.3759918 144.9612485,-37.7928517,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,8.3759918 144.9612485,-37.7928517,7.7259903 144.9611423,-37.792958,7.7259903 144.9611423,-37.792958,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,8.3759918 144.9614198,-37.7928321,7.7259903 144.9612485,-37.7928517,8.3759918 144.9614198,-37.7928321,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612485,-37.7928517,8.3759918 144.9614198,-37.7928321,7.7259903 144.9612485,-37.7928517,7.7259903 144.9612485,-37.7928517,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615554,-37.7929201,8.3759918 144.9615554,-37.7929201,7.7259903 144.9614198,-37.7928321,8.3759918 144.9615554,-37.7929201,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,8.3759918 144.9615554,-37.7929201,7.7259903 144.9614198,-37.7928321,7.7259903 144.9614198,-37.7928321,8.3759918</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,7.7259903 144.961536,-37.7930459,7.7259903 144.9615178,-37.792933,7.7259903 144.9615783,-37.7930557,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,7.7259903 144.9615178,-37.792933,7.7259903 144.9615554,-37.7929201,7.7259903 144.9615783,-37.7930557,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961471,-37.7931619,7.7259903 144.9614496,-37.79313,7.7259903 144.9615783,-37.7930557,7.7259903 144.961471,-37.7931619,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615783,-37.7930557,7.7259903 144.9614496,-37.79313,7.7259903 144.961536,-37.7930459,7.7259903 144.9615783,-37.7930557,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,7.7259903 144.9613114,-37.7931457,7.7259903 144.9614496,-37.79313,7.7259903 144.9612998,-37.7931815,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,7.7259903 144.9614496,-37.79313,7.7259903 144.961471,-37.7931619,7.7259903 144.9612998,-37.7931815,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611642,-37.7930936,7.7259903 144.9612019,-37.7930762,7.7259903 144.9612998,-37.7931815,7.7259903 144.9611642,-37.7930936,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612998,-37.7931815,7.7259903 144.9612019,-37.7930762,7.7259903 144.9613114,-37.7931457,7.7259903 144.9612998,-37.7931815,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,7.7259903 144.9611843,-37.7929677,7.7259903 144.9612019,-37.7930762,7.7259903 144.9611423,-37.792958,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,7.7259903 144.9612019,-37.7930762,7.7259903 144.9611642,-37.7930936,7.7259903 144.9611423,-37.792958,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612485,-37.7928517,7.7259903 144.96127,-37.7928836,7.7259903 144.9611423,-37.792958,7.7259903 144.9612485,-37.7928517,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611423,-37.792958,7.7259903 144.96127,-37.7928836,7.7259903 144.9611843,-37.7929677,7.7259903 144.9611423,-37.792958,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,7.7259903 144.9614081,-37.792868,7.7259903 144.96127,-37.7928836,7.7259903 144.9614198,-37.7928321,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,7.7259903 144.96127,-37.7928836,7.7259903 144.9612485,-37.7928517,7.7259903 144.9614198,-37.7928321,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615554,-37.7929201,7.7259903 144.9615178,-37.792933,7.7259903 144.9614198,-37.7928321,7.7259903 144.9615554,-37.7929201,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614198,-37.7928321,7.7259903 144.9615178,-37.792933,7.7259903 144.9614081,-37.792868,7.7259903 144.9614198,-37.7928321,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615268,-37.7929917,0.7622147 144.9615178,-37.792933,0.7622147 144.9615178,-37.792933,7.7259903 144.9615268,-37.7929917,0.7622147</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615178,-37.792933,7.7259903 144.961536,-37.7930459,7.7259903 144.961536,-37.7930459,0.9796867 144.9615178,-37.792933,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9615178,-37.792933,7.7259903 144.961536,-37.7930459,0.9796867 144.9615268,-37.7929917,0.7622147 144.9615178,-37.792933,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614496,-37.79313,7.7259903 144.9614496,-37.79313,0.6945419 144.9614929,-37.7930902,0.6945419 144.9614496,-37.79313,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614929,-37.7930902,0.6945419 144.961536,-37.7930459,0.9796867 144.9614496,-37.79313,7.7259903 144.9614929,-37.7930902,0.6945419</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614496,-37.79313,7.7259903 144.961536,-37.7930459,0.9796867 144.961536,-37.7930459,7.7259903 144.9614496,-37.79313,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613805,-37.7931379,0.2563095 144.9614496,-37.79313,0.6945419 144.9614496,-37.79313,7.7259903 144.9613805,-37.7931379,0.2563095</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614496,-37.79313,7.7259903 144.9613114,-37.7931457,7.7259903 144.9613114,-37.7931457,0.2563095 144.9614496,-37.79313,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614496,-37.79313,7.7259903 144.9613114,-37.7931457,0.2563095 144.9613805,-37.7931379,0.2563095 144.9614496,-37.79313,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612019,-37.7930762,7.7259903 144.9612019,-37.7930762,0.0814323 144.9613114,-37.7931457,7.7259903 144.9612019,-37.7930762,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613114,-37.7931457,7.7259903 144.9612019,-37.7930762,0.0814323 144.9613114,-37.7931457,0.2563095 144.9613114,-37.7931457,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611843,-37.7929677,7.7259903 144.9611843,-37.7929677,0.0203552 144.9612019,-37.7930762,7.7259903 144.9611843,-37.7929677,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612019,-37.7930762,7.7259903 144.9611843,-37.7929677,0.0203552 144.9612019,-37.7930762,0.0814323 144.9612019,-37.7930762,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9612274,-37.7929234,0.0203552 144.9611843,-37.7929677,0.0203552 144.9611843,-37.7929677,7.7259903 144.9612274,-37.7929234,0.0203552</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611843,-37.7929677,7.7259903 144.96127,-37.7928836,7.7259903 144.96127,-37.7928836,0.1570663 144.9611843,-37.7929677,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611843,-37.7929677,7.7259903 144.96127,-37.7928836,0.1570663 144.9612274,-37.7929234,0.0203552 144.9611843,-37.7929677,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9613391,-37.7928758,0.1570663 144.96127,-37.7928836,0.1570663 144.96127,-37.7928836,7.7259903 144.9613391,-37.7928758,0.1570663</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.96127,-37.7928836,7.7259903 144.9614081,-37.792868,7.7259903 144.9614085,-37.792868,0.4564285 144.96127,-37.7928836,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.96127,-37.7928836,7.7259903 144.9614085,-37.792868,0.4564285 144.9613391,-37.7928758,0.1570663 144.96127,-37.7928836,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961463,-37.7929005,0.4564285 144.9614085,-37.792868,0.4564285 144.9614081,-37.792868,7.7259903 144.961463,-37.7929005,0.4564285</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614081,-37.792868,7.7259903 144.9615178,-37.792933,7.7259903 144.9615178,-37.792933,0.7622147 144.9614081,-37.792868,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9614081,-37.792868,7.7259903 144.9615178,-37.792933,0.7622147 144.961463,-37.7929005,0.4564285 144.9614081,-37.792868,7.7259903</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Placemark id="KMLGeom_UUID_4e480586-d7be-4b77-a62c-c7f79d8bb3bb_WallSurface">
+      <kml:name>UUID_4e480586-d7be-4b77-a62c-c7f79d8bb3bb_WallSurface</kml:name>
+      <kml:styleUrl>#WallSurfaceNormal</kml:styleUrl>
+      <kml:MultiGeometry>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.96117,-37.792945,8.4625244 144.96117,-37.792945,0.0 144.9611745,-37.7929495,8.4625244 144.96117,-37.792945,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.9611745,-37.7929495,8.4625244 144.96117,-37.792945,0.0 144.9611749,-37.7929495,0.0063248 144.9611745,-37.7929495,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961178,-37.7929406,8.4625244 144.9611783,-37.7929406,0.0054626 144.96117,-37.792945,0.0 144.961178,-37.7929406,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+        <kml:Polygon>
+          <kml:altitudeMode>absolute</kml:altitudeMode>
+          <kml:outerBoundaryIs>
+            <kml:LinearRing>
+              <kml:coordinates>144.961178,-37.7929406,8.4625244 144.96117,-37.792945,0.0 144.96117,-37.792945,8.4625244 144.961178,-37.7929406,8.4625244</kml:coordinates>
+            </kml:LinearRing>
+          </kml:outerBoundaryIs>
+        </kml:Polygon>
+      </kml:MultiGeometry>
+    </kml:Placemark>
+    <kml:Style id="WallSurfaceNormal">
+      <kml:LineStyle>
+        <kml:color>C8666666</kml:color>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>C8CCCCCC</kml:color>
+      </kml:PolyStyle>
+      <kml:BalloonStyle>
+        <kml:text>$[description]</kml:text>
+      </kml:BalloonStyle>
+    </kml:Style>
+    <kml:Style id="GroundSurfaceNormal">
+      <kml:LineStyle>
+        <kml:color>C8666666</kml:color>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>C8CCCCCC</kml:color>
+      </kml:PolyStyle>
+      <kml:BalloonStyle>
+        <kml:text>$[description]</kml:text>
+      </kml:BalloonStyle>
+    </kml:Style>
+    <kml:Style id="RoofSurfaceNormal">
+      <kml:LineStyle>
+        <kml:color>C8000099</kml:color>
+      </kml:LineStyle>
+      <kml:PolyStyle>
+        <kml:color>C83333FF</kml:color>
+      </kml:PolyStyle>
+      <kml:BalloonStyle>
+        <kml:text>$[description]</kml:text>
+      </kml:BalloonStyle>
+    </kml:Style>
+  </kml:Document>
+</kml:kml>

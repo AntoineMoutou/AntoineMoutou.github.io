@@ -227,7 +227,8 @@ nav li li a,nav label{
 }
 
 
-#main{
+main{
+  height:100%;
   width: 100%;
 
   background-color: #CCCCCC;

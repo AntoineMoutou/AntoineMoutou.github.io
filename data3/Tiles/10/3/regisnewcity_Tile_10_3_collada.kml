@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>regisnewcity_Tile_10_3_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_fa7d2174-6f3b-415f-81aa-ebdf7aae2b58">
+      <kml:name>UUID_fa7d2174-6f3b-415f-81aa-ebdf7aae2b58</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9626775</kml:longitude>
+          <kml:latitude>-37.7962423</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2512085</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>211/UUID_fa7d2174-6f3b-415f-81aa-ebdf7aae2b58.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

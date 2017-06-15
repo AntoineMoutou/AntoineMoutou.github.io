@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>regisnewcity_Tile_10_2_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_051efc52-a524-400a-b028-e43a336e7349">
+      <kml:name>UUID_051efc52-a524-400a-b028-e43a336e7349</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.96045</kml:longitude>
+          <kml:latitude>-37.796028</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2458774</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>206/UUID_051efc52-a524-400a-b028-e43a336e7349.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_da3f9a03-ae43-4f8f-ac39-e5cc17e1c68d">
+      <kml:name>UUID_da3f9a03-ae43-4f8f-ac39-e5cc17e1c68d</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9605738</kml:longitude>
+          <kml:latitude>-37.7962375</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2520059</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>209/UUID_da3f9a03-ae43-4f8f-ac39-e5cc17e1c68d.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_14d61339-8f8b-4016-b9c7-790d342c3189">
+      <kml:name>UUID_14d61339-8f8b-4016-b9c7-790d342c3189</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.960474</kml:longitude>
+          <kml:latitude>-37.7961366</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2495803</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>181/UUID_14d61339-8f8b-4016-b9c7-790d342c3189.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml:kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <kml:Document>
+    <kml:name>regisnewcity_Tile_8_2_collada</kml:name>
+    <kml:open>false</kml:open>
+    <kml:Placemark id="COLLADA_UUID_e864d3ed-073e-4524-a031-0c5d5a30c035">
+      <kml:name>UUID_e864d3ed-073e-4524-a031-0c5d5a30c035</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9614174</kml:longitude>
+          <kml:latitude>-37.7982617</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2363158</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>188/UUID_e864d3ed-073e-4524-a031-0c5d5a30c035.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_8dc2596f-d17f-426e-984c-e9e1329c8c17">
+      <kml:name>UUID_8dc2596f-d17f-426e-984c-e9e1329c8c17</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9610736</kml:longitude>
+          <kml:latitude>-37.7975753</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2466771</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>191/UUID_8dc2596f-d17f-426e-984c-e9e1329c8c17.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_a36c6c38-deb5-45e0-ae98-96ba1b27a135">
+      <kml:name>UUID_a36c6c38-deb5-45e0-ae98-96ba1b27a135</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9603165</kml:longitude>
+          <kml:latitude>-37.7979272</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2487733</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>193/UUID_a36c6c38-deb5-45e0-ae98-96ba1b27a135.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+    <kml:Placemark id="COLLADA_UUID_3d04112f-1c46-4cff-90d7-35360b1b3ac9">
+      <kml:name>UUID_3d04112f-1c46-4cff-90d7-35360b1b3ac9</kml:name>
+      <kml:Model>
+        <kml:altitudeMode>absolute</kml:altitudeMode>
+        <kml:Location>
+          <kml:longitude>144.9610844</kml:longitude>
+          <kml:latitude>-37.7980982</kml:latitude>
+          <kml:altitude>0.0</kml:altitude>
+        </kml:Location>
+        <kml:Orientation>
+          <kml:heading>1.2416657</kml:heading>
+        </kml:Orientation>
+        <kml:Link>
+          <kml:href>192/UUID_3d04112f-1c46-4cff-90d7-35360b1b3ac9.dae</kml:href>
+        </kml:Link>
+      </kml:Model>
+    </kml:Placemark>
+  </kml:Document>
+</kml:kml>

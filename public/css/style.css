@@ -1,0 +1,24 @@
+html,body,header,footer,h1,h2,h3,a,li,ul{
+  margin: 0px;
+  padding: 0px;
+}
+
+#intro{
+  background-color: red;
+}
+
+#formation{
+  background-color: white;
+}
+
+#stages{
+  background-color: blue;
+}
+
+#projets{
+  background-color: green;
+}
+
+#contact{
+  background-color: pink;
+}

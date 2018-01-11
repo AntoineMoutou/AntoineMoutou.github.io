@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TACOS</title>
+    <link rel="shortcut icon" href="img/tacos2.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1><a href="index.html">TACOS</a></h1>
+    </header>
+    <div id="settings">
+      <form id="navigation" action="#" method="get">
+        <div id=cbox>
+          <label><input type="checkbox" id="cbox1">Caméra libre</label>
+          <label><input type="checkbox" id="cbox2">Mode débug</label>
+        </div>
+        <label>1x<input id="vitesse" min="1" max="101" value="40" step="10" type="range">100x</label>
+      </form>
+      <form id="zoom" action="#" method="get">
+        <label><input type="radio" name="zoom" value="7" checked>Smartphone</label>
+        <label><input type="radio" name="zoom" value="10">Réflex</label>
+        <label><input type="radio" name="zoom" value="13">Téléobjectif</label>
+      </form>
+      <button type="button" id="button">Tweet comme Pesquet</button>
+      <div id="photo"></div>
+      <div id="texte"></div>
+    </div>
+    <div id="map"></div>
+    <footer>
+      <div id="latitude"></div>
+      <div id="longitude"></div>
+    </footer>
+    <script src="js/geo.js"></script>
+  </body>
+</html>

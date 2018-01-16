@@ -1,0 +1,28 @@
+{
+   "location": [
+      {
+         "latitude": 0,
+         "longitude": 0,
+         "date": 0
+      }
+   ],
+   "data": [
+      {
+         "date": 0,
+         "measurements": {
+            "temperature": 0,
+            "pressure": 0,
+            "wind_direction": 0,
+            "wind_speed": 0,
+            "humidity": 0,
+            "luminosity": 0
+         }
+      }
+   ],
+   "rainfall": [
+      {
+         "date": 0,
+         "value": 0
+      }
+   ]
+}

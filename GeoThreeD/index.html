@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Modeliation on a square-grid of an orogeny phenomen with erosion">
+    <meta name="keywords" content="orogeny, erosion, 4D, modelisation, geomatics, geomatic, webmapping">
+    <meta name="author" content="Moutou Antoine">
+
+    <title>GeoThreeD</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/three.js"></script>
+    <script type="text/javascript" src="js/FlyControls2.js"></script>
+  </head>
+  <body>
+    <div id=first>
+
+      <div id="second">
+
+        <header>
+
+          <h1>GeoThreeD</h1>
+
+        </header>
+
+        <div id="settings">
+
+          <h1>SETTINGS</h1>
+
+          <div id="setDim" class="settings">
+            <h2>Dimension : <span id="dim">128</span></h2>
+            <form>
+              <label><input type="radio" name="dimension" value="128" checked>128</label>
+              <label><input type="radio" name="dimension" value="256">256</label>
+              <label><input type="radio" name="dimension" value="512">512</label>
+            </form>
+          </div>
+
+          <div id=setFun class="settings">
+            <h2>Functions</h2>
+            <form>
+              <label><input type="checkbox" id="cbox1">Central surrection</label>
+              <label><input type="checkbox" id="cbox2">Rain</label>
+              <label><input type="checkbox" id="cbox3">Erosion</label>
+            </form>
+          </div>
+
+          <div id="setCtrl" class="settings">
+            <h2>Controls</h2>
+            <p>(W,A,S,D) or (Z,Q,S,D) to move.</p>
+            <p>(Up,Left,Down,Right) to look.</p>
+            <p>(R,F) to move up and down.</p>
+          </div>
+
+          <div id="camera" class="settings">
+              <div><img id="photo"></div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <footer>
+        <p>Webmapping project performed by Moutou Antoine.</p>
+      </footer>
+      
+    </div>
+
+    <div id="container"></div>
+
+    <script type="text/javascript" src="js/script.js"></script>
+  </body>
+</html>
